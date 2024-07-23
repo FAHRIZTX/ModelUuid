@@ -1,0 +1,20 @@
+{
+    "name": "fahriztx/model-uuid",
+    "description": "A Laravel Package to handle Primary Key using UUID",
+    "type": "laravel-package",
+    "require": {
+        "illuminate/support": "^10.10"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fahriztx\\ModelUuid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Fahri",
+            "email": "mfahri.dev@gmail.com"
+        }
+    ]
+}
