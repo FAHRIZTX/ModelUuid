@@ -3,7 +3,7 @@
     "description": "A Laravel Package to handle Primary Key using UUID",
     "type": "laravel-package",
     "require": {
-        "illuminate/support": "^10.10"
+        "illuminate/support": ">=10.10"
     },
     "license": "MIT",
     "autoload": {
